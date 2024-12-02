@@ -1,10 +1,13 @@
-Introduction
+CSGORoll Daily Collector
 ---------------
-CSGORoll Daily Collector!
+A bot to auto-collect dailies in the background, allowing for peace of mind
+
 This comes with Auto-Login, Auto-Stashing, and Immediate Coin Balance Updates within the executable 
+
 The script will simply open all cases > then stash the balance
 
 There are options on if you want to stash or not and for how long (1hr ~ 7 days)
+
 Simply turn off the stash lock feature when you want to withdraw
 
 With that said, the setup instructions are below 
@@ -15,9 +18,11 @@ Important Downloads (Required)
 1> Download Python from the official website
 
 2> Open Command Prompt in Administrator Mode and enter the following:
-	-pip install schedule
-	-pip install -U selenium
-	-pip install webdriver-manager
+```
+	pip install schedule
+	pip install -U selenium
+	pip install webdriver-manager
+```
 This is to download scripting libraries
 
 Important Setup Information (Required)
